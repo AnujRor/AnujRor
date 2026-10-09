@@ -21,7 +21,6 @@ So I build. A lot. And I ship it publicly, even when it's rough.
 
 ## 🧭 How I work
 
-- **I take risks.** Comfortable projects teach you nothing. If I already know how it will turn out, it's probably not worth building.
 - **I explore.** New stacks, new tools, new problems — chasing unfamiliar things is my favourite part. Web, backend, voice AI, AI agents; I go wherever the interesting problem is.
 - **I ship.** An unfinished idea helps no one. Done and public beats perfect and hidden.
 
@@ -40,10 +39,7 @@ So I build. A lot. And I ship it publicly, even when it's rough.
 **Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Frontend**
 
