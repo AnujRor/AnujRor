@@ -80,7 +80,7 @@ A voice companion that feels like a real-life friend. You talk, it listens, unde
 
 The interesting part is the voice pipeline: **LiveKit** handles the real-time audio, **Deepgram** turns speech into text, **OpenAI** thinks, and **ElevenLabs** speaks the reply back.
 
- · 📦 [Code](https://github.com/AnujRor/ai-dost)
+🔗 [Live demo](https://ai-dost-henna.vercel.app)  · 📦 [Code](https://github.com/AnujRor/ai-dost)
 
 ### 🤖 Portfolio Chat Bot
 An AI assistant that lives on my portfolio and answers visitors' questions about me, my projects and my skills — so people don't have to dig around to find what they want.
@@ -96,7 +96,7 @@ An AI assistant that lives on my portfolio and answers visitors' questions about
 | 🎬 **AI Caption Generator** | Listens to a video, writes the captions and styles them automatically | [Live](https://caption-generator-9ch5.onrender.com) |
 | 📥 **Universal Downloader** | Download YouTube or Instagram videos in HD quality | [Live](https://video-downloder-nine.vercel.app) |
 | 👟 **Ozy Sneakers** | Catalog-style online store for sneaker lovers | [Live](https://ozy-sneakers-frontend.vercel.app) |
-| 🧠 **IQ World** | Word-puzzle brain game — arrange words into meaningful sentences | [Portfolio](https://anuj-portfolio-rho.vercel.app/blog/building-iq-world) |
+| 🧠 **IQ World** | Word-puzzle brain game — arrange words into meaningful sentences |  [Live](https://iq-world.vercel.app/ |
 | 🌐 **Portfolio Website** | My personal site — projects, blog and AI assistant | [Live](https://anuj-portfolio-rho.vercel.app/) · [Code](https://github.com/AnujRor/anuj-portfolio) |
 
 ## 🎯 What I'm doing right now
