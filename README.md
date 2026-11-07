@@ -85,7 +85,7 @@ The interesting part is the voice pipeline: **LiveKit** handles the real-time au
 ### 🤖 Portfolio Chat Bot
 An AI assistant that lives on my portfolio and answers visitors' questions about me, my projects and my skills — so people don't have to dig around to find what they want.
 
-🔗 [Live demo](https://anuj-portfolio-rho.vercel.app/) · 📦 [Code](https://github.com/AnujRor/myportfoliochatbot)
+🔗 [Live demo](https://myportfoliochatbot.vercel.app/) · 📦 [Code](https://github.com/AnujRor/myportfoliochatbot)
 
 ---
 
@@ -96,7 +96,7 @@ An AI assistant that lives on my portfolio and answers visitors' questions about
 | 🎬 **AI Caption Generator** | Listens to a video, writes the captions and styles them automatically | [Live](https://caption-generator-9ch5.onrender.com) |
 | 📥 **Universal Downloader** | Download YouTube or Instagram videos in HD quality | [Live](https://video-downloder-nine.vercel.app) |
 | 👟 **Ozy Sneakers** | Catalog-style online store for sneaker lovers | [Live](https://ozy-sneakers-frontend.vercel.app) |
-| 🧠 **IQ World** | Word-puzzle brain game — arrange words into meaningful sentences |  [Live](https://iq-world.vercel.app/ |
+| 🧠 **IQ World** | Word-puzzle brain game — arrange words into meaningful sentences |  [Live](https://iq-world.vercel.app/) |
 | 🌐 **Portfolio Website** | My personal site — projects, blog and AI assistant | [Live](https://anuj-portfolio-rho.vercel.app/) · [Code](https://github.com/AnujRor/anuj-portfolio) |
 
 ## 🎯 What I'm doing right now
